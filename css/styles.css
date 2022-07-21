@@ -1,0 +1,59 @@
+* {
+  font: italic bold 18px Arial, sans-serif;
+}
+
+.border {
+  border: 0.5px dashed black;
+}
+
+header,
+nav,
+footer {
+  height: 60px;
+  background-color: lightblue;
+}
+
+section,
+article {
+  height: 150px;
+}
+
+aside {
+  height: 300px;
+  box-shadow: 4px 6px;
+}
+
+section {
+  background-color: bisque;
+}
+
+article {
+  background-color: blue;
+}
+
+aside {
+  background-color: yellow;
+}
+
+.left {
+  float: left;
+  width: 65%;
+}
+
+.right {
+  float: right;
+  width: 35%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+p {
+  text-shadow: 3px 3px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
