@@ -1,1 +1,1 @@
-# git_practice
+# git_practice_4_students
